@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mXv */ .*
+ls -amXv */ 
